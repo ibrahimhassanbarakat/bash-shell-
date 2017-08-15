@@ -1,0 +1,12 @@
+read x 
+read y
+
+let s=x+y   
+let s1=x-y
+let s2=x*y
+let s3=x/y
+
+echo $s
+echo $s1
+echo $s2
+echo $s3
